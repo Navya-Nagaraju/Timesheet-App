@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timesheet-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/timesheet-ui/static/js/main.693c1247.js",
+    "static/js/453.8175369c.chunk.js": "/timesheet-ui/static/js/453.8175369c.chunk.js",
+    "index.html": "/timesheet-ui/index.html",
+    "main.e6c13ad2.css.map": "/timesheet-ui/static/css/main.e6c13ad2.css.map",
+    "main.693c1247.js.map": "/timesheet-ui/static/js/main.693c1247.js.map",
+    "453.8175369c.chunk.js.map": "/timesheet-ui/static/js/453.8175369c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.693c1247.js"
+  ]
+}
